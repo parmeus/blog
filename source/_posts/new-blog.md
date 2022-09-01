@@ -48,9 +48,15 @@ $ npm install
    
 - write blog
   ```
-  # this will create a new markdown in /source/<layout>  default is _post
-  $ hexo new [layout] <title>
-  $ hexo generate 
+  # this will create a new markdown file in /source/<layout>  default is _posts
+  
+  $ hexo new [layout] <title> 
+  $ hexo new "blog 101" // you can find this file under /source/_posts
+  
+  # Refresh your local served page and you might find the new blog
+  # To add your markdown content, just paste your content right under line 6 in the new .md file 
+  
+  $ hexo generate // generate updated static files under /public, you need to do this every time you make some changes and want to deploy it to github page
   ```
 - publish to Git pages
    [refer to For OPS Publish](#publish-project)
