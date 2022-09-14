@@ -4,8 +4,10 @@
 ## Non-tech user
 #### Use Markdown
 Write a blog with Markdown and send it to engineering team help to publish.
+
 If you need to pre-check your markdown layout, you can use [this site](https://markdownlivepreview.com/)
-You can also find this instruction with photos at [confluence page](https://moblab.atlassian.net/wiki/spaces/WEB30/pages/1691680778/How+to+use+Github+webpage+to+update+Blog)
+
+You can also find this **instruction with screenshots** at [confluence page](https://moblab.atlassian.net/wiki/spaces/WEB30/pages/1691680778/How+to+use+Github+webpage+to+update+Blog)
 
 #### New post
 1. Go to directory ``source/_posts``
