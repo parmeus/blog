@@ -102,9 +102,3 @@ theme: cactus
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  # repo: https://github.com/wanghaha1991/wanghaha1991.github.io
-  repo: https://github.com/parmeus/blog
-  branch: main
-  message: test deploy
