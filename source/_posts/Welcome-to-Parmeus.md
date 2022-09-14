@@ -12,7 +12,7 @@ Parmeus also describes a data standard, storage, soulbound identity as the found
 
 In Parmeus world, user could build digital-soul during game playing; with digial-soul, user could share life experience, knowledge to social and earn.
 
-# The Essence of Parmeus
+## The Essence of Parmeus
 
 ### Computationally efficient
 
